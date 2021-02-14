@@ -1,0 +1,20 @@
+Bug List:
+
+x	No two players with one name
+x	No invalid characters in username (space,.@~/%:|]
+x	Points not cleared at new game-begin.
+x	Can vote until next player is selected
+x	Can save new poem
+x	Check win conditions
+x	Chatbox line limit
+	MENUS	(Change window, exit, make logs, about, etc.)
+x	Away button
+	SLIDER for color window
+		(Common Dialog Box, instead?  Look into it)
+	Poem History (Last 10 Poems)
+x	Person quits/kicked during their turn
+	Ops (not just server)
+	customizable colors
+	"About" box
+	Built-in Alex ban (AlexB, AlexBe, 65.28.246.*)
+	permanent Kick button for me.  =D

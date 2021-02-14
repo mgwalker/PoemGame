@@ -1,0 +1,297 @@
+[Root]
+Most Recent Package=PoemGame 2.12
+
+
+[Package|PoemGame 2.0|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\temp\vb\PoemGame 2.0
+
+[Package|PoemGame 2.0|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PoemGame 2.0|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PoemGame 2.0|Files Found]
+
+[Package|PoemGame 2.0|Files Released]
+
+[Package|PoemGame 2.0|Missing Dependency Information]
+
+[Package|PoemGame 2.0|Out-of-Date Dependency Information]
+C:\windows\SYSTEM\Mswinsck.ocx=
+
+[Package|PoemGame 2.0|Files Added]
+c:\temp\vb\prefs.ini=
+
+[Package|PoemGame 2.0|Files Removed]
+c:\utils\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|PoemGame 2.0|Files In Project]
+C:\temp\vb\poemgame.exe=Yes
+C:\windows\SYSTEM\MSVBVM60.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\windows\SYSTEM\Mswinsck.ocx=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\windows\SYSTEM\VB6STKIT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\temp\vb\prefs.ini=Yes
+
+[Package|PoemGame 2.0|Configure Registry Files]
+Applicable=No
+
+[Package|PoemGame 2.0|Configure Remote Servers]
+Applicable=No
+
+[Package|PoemGame 2.0|Install Locations]
+C:\temp\vb\poemgame.exe=$(AppPath)
+C:\windows\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\windows\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(WinSysPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\windows\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\temp\vb\prefs.ini=$(AppPath)
+
+[Package|PoemGame 2.0|Configure Shared Files]
+Applicable=Yes
+C:\temp\vb\poemgame.exe=No
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\temp\vb\prefs.ini=No
+
+[Package|PoemGame 2.0|Distribution]
+Type=single
+Size=
+Title=Gate's Poem Game
+
+[Package|PoemGame 2.0|Package]
+PackageFolder=C:\temp\vb\PoemGame 2.0
+ProjectFolder=C:\temp\vb
+ServerSideCab=
+File1=C:\temp\vb\PoemGame 2.0\setup.exe
+File2=C:\temp\vb\PoemGame 2.0\Setup.Lst
+File3=C:\temp\vb\PoemGame 2.0\poemgame.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PoemGame 2.0|IconGroups]
+Group0=Gate's Poem Game
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|PoemGame 2.0|Gate's Poem Game]
+Icon1=poemgame.exe
+Title1=Poem Game
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|PoemGame 2.11|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\temp\vb\PoemGame 2.0
+
+[Package|PoemGame 2.11|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PoemGame 2.11|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PoemGame 2.11|Files Found]
+
+[Package|PoemGame 2.11|Files Released]
+
+[Package|PoemGame 2.11|Missing Dependency Information]
+
+[Package|PoemGame 2.11|Out-of-Date Dependency Information]
+C:\windows\SYSTEM\Mswinsck.ocx=
+
+[Package|PoemGame 2.11|Files Added]
+c:\temp\vb\prefs.ini=
+
+[Package|PoemGame 2.11|Files Removed]
+c:\utils\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|PoemGame 2.11|Files In Project]
+C:\temp\vb\poemgame.exe=Yes
+C:\windows\SYSTEM\MSVBVM60.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\windows\SYSTEM\Mswinsck.ocx=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\windows\SYSTEM\VB6STKIT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\temp\vb\prefs.ini=Yes
+
+[Package|PoemGame 2.11|Configure Registry Files]
+Applicable=No
+
+[Package|PoemGame 2.11|Configure Remote Servers]
+Applicable=No
+
+[Package|PoemGame 2.11|Install Locations]
+C:\temp\vb\poemgame.exe=$(AppPath)
+C:\windows\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\windows\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(WinSysPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\windows\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\temp\vb\prefs.ini=$(AppPath)
+
+[Package|PoemGame 2.11|Configure Shared Files]
+Applicable=Yes
+C:\temp\vb\poemgame.exe=No
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\temp\vb\prefs.ini=No
+
+[Package|PoemGame 2.11|Distribution]
+Type=single
+Size=
+Title=Poem Game 2.11
+
+[Package|PoemGame 2.11|Package]
+PackageFolder=C:\temp\vb\PoemGame 2.0
+ProjectFolder=C:\temp\vb
+ServerSideCab=
+File1=C:\temp\vb\PoemGame 2.0\setup.exe
+File2=C:\temp\vb\PoemGame 2.0\Setup.Lst
+File3=C:\temp\vb\PoemGame 2.0\poemgame.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PoemGame 2.11|IconGroups]
+Group0=Poem Game
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|PoemGame 2.11|Poem Game]
+Icon1=poemgame.exe
+Title1=Poem Game
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|PoemGame 2.12|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\temp\vb\PoemGame 2.0
+
+[Package|PoemGame 2.12|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PoemGame 2.12|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PoemGame 2.12|Files Found]
+
+[Package|PoemGame 2.12|Files Released]
+
+[Package|PoemGame 2.12|Missing Dependency Information]
+
+[Package|PoemGame 2.12|Out-of-Date Dependency Information]
+C:\windows\SYSTEM\Mswinsck.ocx=
+
+[Package|PoemGame 2.12|Files Added]
+c:\temp\vb\prefs.ini=
+
+[Package|PoemGame 2.12|Files Removed]
+c:\utils\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|PoemGame 2.12|Files In Project]
+C:\temp\vb\poemgame.exe=Yes
+C:\windows\SYSTEM\MSVBVM60.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\windows\SYSTEM\Mswinsck.ocx=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\windows\SYSTEM\VB6STKIT.DLL=Yes
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\temp\vb\prefs.ini=Yes
+
+[Package|PoemGame 2.12|Configure Registry Files]
+Applicable=No
+
+[Package|PoemGame 2.12|Configure Remote Servers]
+Applicable=No
+
+[Package|PoemGame 2.12|Install Locations]
+C:\temp\vb\poemgame.exe=$(AppPath)
+C:\windows\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\windows\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(WinSysPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\utils\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\windows\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\utils\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\temp\vb\prefs.ini=$(AppPath)
+
+[Package|PoemGame 2.12|Configure Shared Files]
+Applicable=Yes
+C:\temp\vb\poemgame.exe=No
+C:\utils\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\temp\vb\prefs.ini=No
+
+[Package|PoemGame 2.12|Distribution]
+Type=single
+Size=
+Title=Poem Game 2.12
+
+[Package|PoemGame 2.12|Package]
+PackageFolder=C:\temp\vb\PoemGame 2.0
+ProjectFolder=C:\temp\vb
+ServerSideCab=
+File1=C:\temp\vb\PoemGame 2.0\setup.exe
+File2=C:\temp\vb\PoemGame 2.0\Setup.Lst
+File3=C:\temp\vb\PoemGame 2.0\poemgame.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PoemGame 2.12|IconGroups]
+Group0=Poem Game
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|PoemGame 2.12|Poem Game]
+Icon1=poemgame.exe
+Title1=Poem Game
+StartIn1=$(AppPath)
+Key1=Icon1

@@ -1,0 +1,26 @@
+[BootStrap]
+File1=1,,setup1.ex_,setup1.exe,$(WinPath),,,1/16/1997 0:00:00,164864,5.0.0.3716,"","",""
+File2=1,,VB5StKit.dl_,VB5StKit.dll,$(WinSysPath),,$(Shared),1/16/1997 0:00:00,29696,5.0.37.16,"","",""
+File3=1,,MSVBVM50.dl_,MSVBVM50.dll,$(WinSysPathSysFile),$(DLLSelfRegister),,4/23/1999 22:22:00,1355776,5.1.43.19,"","",""
+File4=1,,StdOle2.tl_,StdOle2.tlb,$(WinSysPathSysFile),$(TLBRegister),,1/15/1997 0:00:00,16896,2.20.4054.1,"","",""
+File5=1,,OleAut32.dl_,OleAut32.dll,$(WinSysPathSysFile),$(DLLSelfRegister),,1/15/1997 0:00:00,491792,2.20.4054.1,"","",""
+File6=1,,OlePro32.dl_,OlePro32.dll,$(WinSysPathSysFile),$(DLLSelfRegister),,1/15/1997 0:00:00,32528,5.0.4055.1,"","",""
+File7=1,,AsycFilt.dl_,AsycFilt.dll,$(WinSysPathSysFile),,,1/15/1997 0:00:00,120592,2.20.4056.1,"","",""
+File8=1,,Ctl3d32.dl_,Ctl3d32.dll,$(WinSysPathSysFile),,,8/21/1996 0:00:00,27136,2.31.0.0,"","",""
+File9=1,,ComCat.dl_,ComCat.dll,$(WinSysPathSysFile),$(DLLSelfRegister),,10/31/1996 0:00:00,22288,4.71.1441.1,"","",""
+
+[Files]
+File1=1,,MSWINSCK.OC_,MSWINSCK.OCX,$(WinSysPath),$(DLLSelfRegister),$(Shared),12/6/2000 0:00:00,109248,6.0.89.88,"","",""
+File2=1,,MSDERUN.DL_,MSDERUN.DLL,$(CommonFiles)\designer,$(DLLSelfRegister),$(Shared),3/14/2000 0:00:00,136192,6.0.88.4,"","",""
+File3=1,,msado15.dl_,msado15.dll,$(CommonFiles)\designer,$(DLLSelfRegister),$(Shared),6/24/2001 21:18:40,487696,2.50.4403.9,"","",""
+File4=1,,poemgame.ex_,poemgame.exe,$(AppPath),,,6/29/2001 23:27:34,77824,1.0.0.0,"","NornGate's Poem Game","$(AppPath)\manychat.exe"
+
+[Setup]
+Title=NornGate's Poem Game, by JacketFan
+DefProgramGroup=Poem Game
+DefaultDir=$(ProgramFiles)\PoemGame
+Setup=setup1.exe
+AppExe=poemgame.exe
+AppToUninstall=poemgame.exe
+AppPath=
+

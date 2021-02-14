@@ -1,0 +1,8 @@
+Line 155: Class MSWinsockLib.Winsock of control sckConnect was not a loaded control class.
+Line 196: Class MSWinsockLib.Winsock of control sckConnection was not a loaded control class.
+Line 158: The property name _ExtentX in sckConnect is invalid.
+Line 159: The property name _ExtentY in sckConnect is invalid.
+Line 160: The property name _Version in sckConnect is invalid.
+Line 200: The property name _ExtentX in sckConnection is invalid.
+Line 201: The property name _ExtentY in sckConnection is invalid.
+Line 202: The property name _Version in sckConnection is invalid.
